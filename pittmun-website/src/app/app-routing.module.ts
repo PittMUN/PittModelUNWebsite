@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { AboutUsComponent } from './about-us/about-us.component';
+import { AboutUsComponent } from './colleg-conference/about-us.component';
 import { ContactUsComponent } from './contact-us/contact-us.component';
 import { GalleryComponent } from './gallery/gallery.component';
 import { HighschoolConferenceComponent } from './highschool-conference/highschool-conference.component';
